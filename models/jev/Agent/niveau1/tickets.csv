@@ -1,0 +1,41 @@
+id,texte,equipe_attendue,urgent_attendu,difficulte,split
+1,"J'ai été débité deux fois pour mon abonnement de septembre, merci de me rembourser.",facturation,0,clair,dev
+2,L'application plante dès que j'ouvre la page Profil sur Android.,technique,0,clair,dev
+3,"Le site est totalement inaccessible depuis 10 minutes, nos clients ne peuvent plus commander !",technique,1,clair,dev
+4,Est-ce que vous proposez des stages pour l'été prochain ?,autre,0,clair,dev
+5,"Ma carte a été refusée alors qu'elle fonctionne partout ailleurs, et mon abonnement expire ce soir.",facturation,1,clair,dev
+6,Je voudrais modifier l'adresse qui apparaît sur mes factures.,facturation,0,clair,dev
+7,"Impossible de me connecter depuis la dernière mise à jour, le mot de passe est pourtant correct.",technique,0,clair,dev
+8,Où se trouvent vos bureaux à Casablanca ?,autre,0,clair,dev
+9,"Toutes nos données clients ont disparu du tableau de bord ce matin, c'est critique.",technique,1,clair,dev
+10,Pouvez-vous m'envoyer un duplicata de la facture de juillet ?,facturation,0,clair,dev
+11,Je souhaite vous proposer un partenariat commercial.,autre,0,clair,dev
+12,Le bouton d'export CSV ne fait rien quand je clique dessus.,technique,0,clair,dev
+13,"On m'a facturé l'offre Pro alors que j'ai l'offre Basique, je veux une correction avant la clôture comptable de demain.",facturation,1,clair,dev
+14,"Bravo pour la nouvelle interface, elle est vraiment agréable.",autre,0,clair,dev
+15,"Le paiement ne passe pas, j'obtiens une erreur 500 à la validation.",technique,1,ambigu,dev
+16,"Pas urgent du tout, mais j'aimerais comprendre une ligne de ma facture.",facturation,0,ambigu,dev
+17,Ça ne marche pas.,technique,0,ambigu,dev
+18,Je veux résilier mon compte et supprimer toutes mes données.,autre,0,ambigu,dev
+19,URGENT : pouvez-vous m'expliquer comment changer ma photo de profil ?,technique,0,ambigu,dev
+20,Mon prélèvement a échoué et l'accès de toute mon équipe a été coupé.,facturation,1,ambigu,dev
+21,Je n'ai pas reçu le remboursement promis il y a trois semaines.,facturation,0,clair,test
+22,La synchronisation avec Google Agenda ne fonctionne plus depuis hier.,technique,0,clair,test
+23,"Notre API renvoie des erreurs 503 en production, toutes nos intégrations sont à l'arrêt.",technique,1,clair,test
+24,Quels sont vos horaires d'ouverture du support téléphonique ?,autre,0,clair,test
+25,Comment ajouter un numéro de TVA sur mes prochaines factures ?,facturation,0,clair,test
+26,Les notifications push n'arrivent plus sur iPhone.,technique,0,clair,test
+27,"Un montant de 4 000 € a été prélevé par erreur, je suis à découvert, réglez ça aujourd'hui s'il vous plaît.",facturation,1,clair,test
+28,Je suis journaliste et j'aimerais interviewer votre fondateur.,autre,0,clair,test
+29,Quelqu'un s'est connecté à mon compte depuis un pays inconnu et a changé mon email.,technique,1,clair,test
+30,Pouvez-vous passer ma facturation de mensuelle à annuelle ?,facturation,0,clair,test
+31,Les graphiques du tableau de bord mettent plus d'une minute à se charger.,technique,0,clair,test
+32,Avez-vous une remise pour les associations ?,facturation,0,clair,test
+33,Je cherche la documentation pour installer votre outil sur Linux.,technique,0,clair,test
+34,J'aimerais laisser un avis sur un de vos commerciaux.,autre,0,clair,test
+35,"Depuis que j'ai changé de carte bancaire, je ne peux plus accéder au logiciel.",facturation,1,ambigu,test
+36,Rien ne s'affiche.,technique,0,ambigu,test
+37,"Mon essai gratuit se termine demain, que se passe-t-il ensuite ?",facturation,0,ambigu,test
+38,"Votre service est une catastrophe, je veux parler à un responsable immédiatement.",autre,1,ambigu,test
+39,La facture PDF téléchargée est vide.,technique,0,ambigu,test
+40,Je n'arrive pas à trouver où télécharger mes factures dans l'application.,facturation,0,ambigu,test
